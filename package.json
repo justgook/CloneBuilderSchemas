@@ -1,0 +1,19 @@
+{
+  "name": "CloneBuilderSchemas",
+  "version": "1.0.0",
+  "description": "http://stackoverflow.com/questions/8179137/how-to-manage-multiple-json-schema-files",
+  "main": "index.js",
+  "scripts": {
+    "test": "coffee ./index.coffee"
+  },
+  "author": "",
+  "private": true,
+  "license": "MIT",
+  "repository": "https://github.com/justgook/CloneBuilderSchemas",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "colors": "^1.0.3",
+    "gaze": "^0.6.4",
+    "tv4": "^1.1.5"
+  }
+}

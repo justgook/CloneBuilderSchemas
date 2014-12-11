@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Engine",
+  "description": "all kinds of game engine",
+  "type": "object",
+  "allOf": [
+    {
+      "$ref": "../asset.schema.json"
+    },
+    {
+      "properties": {
+        "package": {
+          "pattern": "^asset\\.engine"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "package": "asset",
+  "id": "root",
+  "name": "Literary asset name",
+  "version": "132.0.0",
+  "description": "http://stackoverflow.com/questions/8179137/how-to-manage-multiple-json-schema-files",
+  "main": "index.js",
+  "scripts": {
+    "start":"coffee ./index.coffee",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "tags":["dasas"]
+}
